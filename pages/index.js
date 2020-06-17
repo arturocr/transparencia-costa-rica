@@ -19,8 +19,8 @@ export default () => (
     <p className='my-4'>
       Ante tal situación y dado que la jurisprudencia constitucional permite
       solicitarla, el despacho del señor diputado solicitó la lista actualizada
-      de esas grandes empresas que en 2018 y 2019 reportaron perdidas o
-      utilidades cero.
+      de esas grandes empresas que en 2018 y 2019 reportaron pérdidas o cero
+      utilidades.
     </p>
     <p className='my-4'>
       Concuerdo completamente con Don José María, en que no debería ser
@@ -28,8 +28,16 @@ export default () => (
       Hacienda debería publicarla de manera periódica.
     </p>
     <p className='my-4'>
-      Es por eso que he decidido volcar esas listas en este sitio web para que
-      la información esté más al alcance de los y las costarricenses.
+      Es por eso que he decidido tomar esas listas que el señor Villalta{' '}
+      <a
+        className='text-green-500 hover:text-green-700'
+        href='https://twitter.com/josemvillalta/status/1273040668290662400'
+        target='_blank'
+        rel='noopener noreferrer'>
+        compartió
+      </a>{' '}
+      y volcarlas en este sitio web para que la información esté más al alcance
+      de los y las costarricenses.
     </p>
     <p className='my-4'>
       Ya es suficiente de cargar con más impuestos a la honesta clase
