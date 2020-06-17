@@ -1,278 +1,80 @@
 [
-  {
-    "id": 3101009240,
-    "name": "ADOC DE COSTA RICA S.A."
-  },
-  {
-    "id": 3101256530,
-    "name": "AERIS HOLDING COSTA RICA S.A."
-  },
-  {
-    "id": 3101479526,
-    "name": "ALMACENES SIMAN S.A."
-  },
-  {
-    "id": 3101641075,
-    "name": "APM TERMINALS MOIN S.A."
-  },
-  {
-    "id": 3101008162,
-    "name": "ARCELORMITTAL COSTA RICA S.A."
-  },
-  {
-    "id": 3101089043,
-    "name": "ASESORES CORPORATIVOS DE COSTA RICA S.A."
-  },
-  {
-    "id": 3002066031,
-    "name": "ASOCIACION SOLIDARISTA EMPLEADOS C.C.S.S."
-  },
-  {
-    "id": 3101095143,
-    "name": "AVON DE COSTA RICA S.A."
-  },
-  {
-    "id": 3101023155,
-    "name": "BANCO LAFISE S.A."
-  },
-  {
-    "id": 3101006854,
-    "name": "BEJOS MIGUEL YAMUNI E HIJOS S.A."
-  },
-  {
-    "id": 3101012984,
-    "name": "BETTER RESTAURANT BRANDS S.A."
-  },
-  {
-    "id": 3101747406,
-    "name": "CABLETICA SOCIEDAD ANONIMA"
-  },
-  {
-    "id": 3101070993,
-    "name": "CEMACO INTERNACIONAL S.A."
-  },
-  {
-    "id": 3101010979,
-    "name": "CENTENARIO INTERNACIONAL S.A."
-  },
-  {
-    "id": 3102207900,
-    "name": "CINEMARK COSTA RICA S.R.L."
-  },
-  {
-    "id": 3101460479,
-    "name": "CLARO CR TELECOMUNICACIONES S.A."
-  },
-  {
-    "id": 3101007273,
-    "name": "CLOROX DE CENTROAMERICA S.A."
-  },
-  {
-    "id": 3101016470,
-    "name": "COMIDAS CENTROAMERICANAS S.A."
-  },
-  {
-    "id": 3101000046,
-    "name": "COMPAÑIA NACIONAL DE FUERZA Y LUZ S.A."
-  },
-  {
-    "id": 3102012933,
-    "name": "CORPORACION PIPASA S.R.L."
-  },
-  {
-    "id": 3101178494,
-    "name": "CORPORACION ROSTI POLLOS S.A."
-  },
-  {
-    "id": 3101003111,
-    "name": "CUESTAMORAS COSTA RICA S.A."
-  },
+  { "id": 3101009240, "name": "ADOC DE COSTA RICA S.A." },
+  { "id": 3101256530, "name": "AERIS HOLDING COSTA RICA S.A." },
+  { "id": 3101479526, "name": "ALMACENES SIMAN S.A." },
+  { "id": 3101641075, "name": "APM TERMINALS MOIN S.A." },
+  { "id": 3101008162, "name": "ARCELORMITTAL COSTA RICA S.A." },
+  { "id": 3101089043, "name": "ASESORES CORPORATIVOS DE COSTA RICA S.A." },
+  { "id": 3002066031, "name": "ASOCIACION SOLIDARISTA EMPLEADOS C.C.S.S." },
+  { "id": 3101095143, "name": "AVON DE COSTA RICA S.A." },
+  { "id": 3101023155, "name": "BANCO LAFISE S.A." },
+  { "id": 3101006854, "name": "BEJOS MIGUEL YAMUNI E HIJOS S.A." },
+  { "id": 3101012984, "name": "BETTER RESTAURANT BRANDS S.A." },
+  { "id": 3101747406, "name": "CABLETICA SOCIEDAD ANONIMA" },
+  { "id": 3101070993, "name": "CEMACO INTERNACIONAL S.A." },
+  { "id": 3101010979, "name": "CENTENARIO INTERNACIONAL S.A." },
+  { "id": 3102207900, "name": "CINEMARK COSTA RICA S.R.L." },
+  { "id": 3101460479, "name": "CLARO CR TELECOMUNICACIONES S.A." },
+  { "id": 3101007273, "name": "CLOROX DE CENTROAMERICA S.A." },
+  { "id": 3101016470, "name": "COMIDAS CENTROAMERICANAS S.A." },
+  { "id": 3101000046, "name": "COMPAÑIA NACIONAL DE FUERZA Y LUZ S.A." },
+  { "id": 3102012933, "name": "CORPORACION PIPASA S.R.L." },
+  { "id": 3101178494, "name": "CORPORACION ROSTI POLLOS S.A." },
+  { "id": 3101003111, "name": "CUESTAMORAS COSTA RICA S.A." },
   {
     "id": 3101465579,
     "name": "DICA DESAROLLOS INMOBILIARIOS CENTROAMERICANOS S.A."
   },
-  {
-    "id": 3101093628,
-    "name": "DISTRIBUCIONES HORIZONTALES S.A."
-  },
-  {
-    "id": 3102132790,
-    "name": "ECODESARROLLO PAPAGAYO LTDA."
-  },
-  {
-    "id": 3102426107,
-    "name": "ECOS DE COLORES EN FORUM LTDA."
-  },
-  {
-    "id": 3101094711,
-    "name": "ELECTRONICA DAYTRON S.A."
-  },
-  {
-    "id": 3101042028,
-    "name": "EMPRESA DE SERVICIOS PUBLICOS DE HEREDIA S.A."
-  },
-  {
-    "id": 3101295184,
-    "name": "ERIAL B Q S.A."
-  },
-  {
-    "id": 3101248566,
-    "name": "EXPORTACIONES NORTEÑAS S.A."
-  },
-  {
-    "id": 3101135871,
-    "name": "FINANCIERA DESYFIN S.A."
-  },
-  {
-    "id": 3101590004,
-    "name": "GMG COMERCIAL COSTA RICA S.A."
-  },
-  {
-    "id": 3101091720,
-    "name": "GMG SERVICIOS COSTA RICA S.A. "
-  },
-  {
-    "id": 3101297812,
-    "name": "GRUPO EMPRESARIAL DE SUPERMERCADOS S.A."
-  },
-  {
-    "id": 3101670336,
-    "name": "GRUPO QUALITY MOTOR S.A."
-  },
-  {
-    "id": 3101412271,
-    "name": "HOTEL REAL DE PINILLA S.A."
-  },
-  {
-    "id": 3101024566,
-    "name": "HOTEL Y CLUB PUNTA LEONA S.A. "
-  },
-  {
-    "id": 3102109001,
-    "name": "HOTELERA CALI S.A."
-  },
-  {
-    "id": 3101517480,
-    "name": "INVERSIONES DE CINEMA DE COSTA RICA S.A."
-  },
-  {
-    "id": 3101548540,
-    "name": " INVERSIONES EOLICAS DE OROSI DOS S.A."
-  },
-  {
-    "id": 3101353186,
-    "name": "LAND BUSINESS S.A."
-  },
-  {
-    "id": 3007042036,
-    "name": "LIGA AGRICOLA INDUSTRIAL DE LA CANA DE AZUCAR"
-  },
-  {
-    "id": 3102126680,
-    "name": "MARINA DE HERRADURA S.A."
-  },
-  {
-    "id": 3102149900,
-    "name": "MONDELEZ COSTA RICA LTDA."
-  },
-  {
-    "id": 3101461460,
-    "name": "NUEVA FARMACIA FISCHEL S.A."
-  },
-  {
-    "id": 3101124843,
-    "name": "OCCIDENTAL SMERALDA S.A."
-  },
-  {
-    "id": 3101666929,
-    "name": "OCEANICA DE SEGUROS S.A."
-  },
-  {
-    "id": 3101042283,
-    "name": "ORIFLAME DE COSTA RICA S.A."
-  },
-  {
-    "id": 3101528730,
-    "name": "PH CHUCAS S.A."
-  },
-  {
-    "id": 3101005434,
-    "name": "PINTUCO COSTA RICA PCR S.A."
-  },
-  {
-    "id": 3101443971,
-    "name": "PLANTA EOLICA GUANACASTE S.A."
-  },
-  {
-    "id": 3101245641,
-    "name": "POLYMER S.A."
-  },
-  {
-    "id": 3101089984,
-    "name": "PRIVAL BANK (COSTA RICA) S.A."
-  },
-  {
-    "id": 3101004016,
-    "name": "PRODUCTOS DE CONCRETO S.A."
-  },
-  {
-    "id": 3101029473,
-    "name": "PRODUCTOS LUBRICANTES S.A."
-  },
+  { "id": 3101093628, "name": "DISTRIBUCIONES HORIZONTALES S.A." },
+  { "id": 3102132790, "name": "ECODESARROLLO PAPAGAYO LTDA." },
+  { "id": 3102426107, "name": "ECOS DE COLORES EN FORUM LTDA." },
+  { "id": 3101094711, "name": "ELECTRONICA DAYTRON S.A." },
+  { "id": 3101042028, "name": "EMPRESA DE SERVICIOS PUBLICOS DE HEREDIA S.A." },
+  { "id": 3101295184, "name": "ERIAL B Q S.A." },
+  { "id": 3101248566, "name": "EXPORTACIONES NORTEÑAS S.A." },
+  { "id": 3101135871, "name": "FINANCIERA DESYFIN S.A." },
+  { "id": 3101590004, "name": "GMG COMERCIAL COSTA RICA S.A." },
+  { "id": 3101091720, "name": "GMG SERVICIOS COSTA RICA S.A. " },
+  { "id": 3101297812, "name": "GRUPO EMPRESARIAL DE SUPERMERCADOS S.A." },
+  { "id": 3101670336, "name": "GRUPO QUALITY MOTOR S.A." },
+  { "id": 3101412271, "name": "HOTEL REAL DE PINILLA S.A." },
+  { "id": 3101024566, "name": "HOTEL Y CLUB PUNTA LEONA S.A. " },
+  { "id": 3102109001, "name": "HOTELERA CALI S.A." },
+  { "id": 3101517480, "name": "INVERSIONES DE CINEMA DE COSTA RICA S.A." },
+  { "id": 3101548540, "name": " INVERSIONES EOLICAS DE OROSI DOS S.A." },
+  { "id": 3101353186, "name": "LAND BUSINESS S.A." },
+  { "id": 3007042036, "name": "LIGA AGRICOLA INDUSTRIAL DE LA CANA DE AZUCAR" },
+  { "id": 3102126680, "name": "MARINA DE HERRADURA S.A." },
+  { "id": 3102149900, "name": "MONDELEZ COSTA RICA LTDA." },
+  { "id": 3101461460, "name": "NUEVA FARMACIA FISCHEL S.A." },
+  { "id": 3101124843, "name": "OCCIDENTAL SMERALDA S.A." },
+  { "id": 3101666929, "name": "OCEANICA DE SEGUROS S.A." },
+  { "id": 3101042283, "name": "ORIFLAME DE COSTA RICA S.A." },
+  { "id": 3101528730, "name": "PH CHUCAS S.A." },
+  { "id": 3101005434, "name": "PINTUCO COSTA RICA PCR S.A." },
+  { "id": 3101443971, "name": "PLANTA EOLICA GUANACASTE S.A." },
+  { "id": 3101245641, "name": "POLYMER S.A." },
+  { "id": 3101089984, "name": "PRIVAL BANK (COSTA RICA) S.A." },
+  { "id": 3101004016, "name": "PRODUCTOS DE CONCRETO S.A." },
+  { "id": 3101029473, "name": "PRODUCTOS LUBRICANTES S.A." },
   {
     "id": 3101622002,
     "name": "QUALITAS COMPAÑIA DE SEGUROS (COSTA RICA) S.A."
   },
-  {
-    "id": 3101009389,
-    "name": "RENA WARE DE COSTA RICA S.A."
-  },
-  {
-    "id": 3101124933,
-    "name": "RESERVA CONCHAL S.A."
-  },
-  {
-    "id": 3101624787,
-    "name": "SAP COSTA RICA S.A."
-  },
-  {
-    "id": 3102085715,
-    "name": "SECRETO DEL PACÍFICO S.R.L."
-  },
-  {
-    "id": 3101005831,
-    "name": "SIEMENS S.A."
-  },
+  { "id": 3101009389, "name": "RENA WARE DE COSTA RICA S.A." },
+  { "id": 3101124933, "name": "RESERVA CONCHAL S.A." },
+  { "id": 3101624787, "name": "SAP COSTA RICA S.A." },
+  { "id": 3102085715, "name": "SECRETO DEL PACÍFICO S.R.L." },
+  { "id": 3101005831, "name": "SIEMENS S.A." },
   {
     "id": 3012280719,
     "name": "SONY INTER-AMERICAN S.A., SUCURSAL EN COSTA RICA"
   },
-  {
-    "id": 3101022435,
-    "name": "SUR QUIMICA S.A."
-  },
-  {
-    "id": 3101340040,
-    "name": "TACA COSTA RICA S.A."
-  },
-  {
-    "id": 3101610198,
-    "name": "TELEFONICA DE COSTA RICA TC S.A."
-  },
-  {
-    "id": 3101450510,
-    "name": "UNION FENOSA GENERADORA TORITO S.A."
-  },
-  {
-    "id": 3102177510,
-    "name": "UNIVERSIDAD U LATINA S.R.L."
-  },
-  {
-    "id": 3102658980,
-    "name": "VAN OORD BAM LTDA."
-  },
-  {
-    "id": 3101172668,
-    "name": "VENTAS DIRECTAS AMWAY COSTA RICA S.A."
-  }
- ]
+  { "id": 3101022435, "name": "SUR QUIMICA S.A." },
+  { "id": 3101340040, "name": "TACA COSTA RICA S.A." },
+  { "id": 3101610198, "name": "TELEFONICA DE COSTA RICA TC S.A." },
+  { "id": 3101450510, "name": "UNION FENOSA GENERADORA TORITO S.A." },
+  { "id": 3102177510, "name": "UNIVERSIDAD U LATINA S.R.L." },
+  { "id": 3102658980, "name": "VAN OORD BAM LTDA." },
+  { "id": 3101172668, "name": "VENTAS DIRECTAS AMWAY COSTA RICA S.A." }
+]

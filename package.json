@@ -9,11 +9,27 @@
   "dependencies": {
     "fs-extra": "^9.0.1",
     "next": "^9.4.4",
+    "next-ga": "^2.3.4",
+    "next-seo": "^4.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
     "postcss-preset-env": "^6.7.0",
+    "prettier": "^2.0.5",
     "tailwindcss": "^1.4.6"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{css,html,js,json,md}": [
+      "prettier --write",
+      "git add"
+    ]
   }
 }

@@ -1,8 +1,13 @@
-import Head from 'next/head';
-import { readJsonSync } from "fs-extra";
+import { NextSeo } from 'next-seo';
+import { readJsonSync } from 'fs-extra';
+import SEO from '../next-seo.config';
 
 import List from '../components/list';
 import Tabs from '../components/tabs';
+
+const url = `${SEO.canonical}/2019`;
+const title = `${SEO.title} - Lista 2019`;
+const description = `${SEO.description} - Lista de empresas que reportaron pérdidas o cero ganancias en el 2019.`;
 
 export async function getStaticProps() {
   const gcn2019 = readJsonSync('./data/GCN-2019.json');
@@ -17,18 +22,29 @@ export async function getStaticProps() {
   };
 }
 
-export default ({data}) => (
+export default ({ data }) => (
   <>
-    <Head>
-      <title>Transparencia Costa Rica - Lista 2019</title>
-    </Head>
-    <h1 className="text-xl font-medium mb-5">Lista del año 2019</h1>
-    <p className='my-4'>Acá se presenta la lista de Grandes Contribuyentes Nacionales y Grandes Empresas Territoriales que han reportado pérdidas o cero ganancias en el año 2019.</p>
+    <NextSeo
+      title={title}
+      description={description}
+      canonical={url}
+      openGraph={{
+        url,
+        title,
+        description,
+      }}
+    />
+    <h1 className='text-xl font-medium mb-5'>Lista del año 2019</h1>
+    <p className='my-4'>
+      Acá se presenta la lista de Grandes Contribuyentes Nacionales y Grandes
+      Empresas Territoriales que han reportado pérdidas o cero ganancias en el
+      año 2019.
+    </p>
     <Tabs>
-      <div label="Grandes Contribuyentes Nacionales">
+      <div label='Grandes Contribuyentes Nacionales'>
         <List items={data.gcn2019} />
       </div>
-      <div label="Grandes Empresas Territoriales">
+      <div label='Grandes Empresas Territoriales'>
         <List items={data.getes2019} />
       </div>
     </Tabs>
