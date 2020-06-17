@@ -52,10 +52,10 @@ export default () => (
       </Link>
       <nav className='md:ml-auto flex flex-wrap items-center text-base justify-center'>
         <Link href='/2018'>
-          <a className='mr-10 text-green-500 hover:text-green-700'>2018</a>
+          <a className='mr-10 text-green-700 hover:text-green-800'>2018</a>
         </Link>
         <Link href='/2019'>
-          <a className='text-green-500 hover:text-green-700'>2019</a>
+          <a className='text-green-700 hover:text-green-800'>2019</a>
         </Link>
       </nav>
     </div>

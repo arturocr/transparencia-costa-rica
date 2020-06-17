@@ -6,7 +6,7 @@ export default () => (
     <p className='my-4'>
       Tal y como el diputado Jose María Villalta{' '}
       <a
-        className='text-green-500 hover:text-green-700'
+        className='text-green-700 hover:text-green-800'
         href='https://twitter.com/josemvillalta/status/1273040659642036224'
         target='_blank'
         rel='noopener noreferrer'>
@@ -30,7 +30,7 @@ export default () => (
     <p className='my-4'>
       Es por eso que he decidido tomar esas listas que el señor Villalta{' '}
       <a
-        className='text-green-500 hover:text-green-700'
+        className='text-green-700 hover:text-green-800'
         href='https://twitter.com/josemvillalta/status/1273040668290662400'
         target='_blank'
         rel='noopener noreferrer'>
@@ -46,18 +46,18 @@ export default () => (
     </p>
     <p className='my-4'>
       <Link href='/2018'>
-        <a className='text-green-500 hover:text-green-700'>Lista del 2018</a>
+        <a className='text-green-700 hover:text-green-800'>Lista del 2018</a>
       </Link>
     </p>
     <p className='my-4'>
       <Link href='/2019'>
-        <a className='text-green-500 hover:text-green-700'>Lista del 2019</a>
+        <a className='text-green-700 hover:text-green-800'>Lista del 2019</a>
       </Link>
     </p>
     <hr />
     <p className='my-4'>
       <a
-        className='text-green-500 hover:text-green-700'
+        className='text-green-700 hover:text-green-800'
         href='/files/DM-0247-2020-v2.pdf'
         target='_blank'>
         Documento oficial con las listas

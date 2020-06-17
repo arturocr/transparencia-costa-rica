@@ -8,10 +8,10 @@ export default () => (
         target='_blank'>
         <span className='ml-3 text-xl'>arturocampos.dev</span>
       </a>
-      <p className='text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4'>
+      <p className='text-sm text-gray-700 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4'>
         <a
           href='https://twitter.com/arturocr'
-          className='text-gray-600 ml-1'
+          className='text-gray-700 ml-1'
           rel='noopener noreferrer'
           target='_blank'>
           @arturocr
@@ -19,7 +19,8 @@ export default () => (
       </p>
       <span className='inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start'>
         <a
-          className='text-gray-500'
+          aria-label='Twitter'
+          className='text-gray-700'
           href='https://twitter.com/arturocr'
           rel='noopener noreferrer'
           target='_blank'>
@@ -35,7 +36,8 @@ export default () => (
           </svg>
         </a>
         <a
-          className='ml-3 text-gray-500'
+          aria-label='GitHub'
+          className='ml-3 text-gray-700'
           href='https://github.com/arturocr'
           rel='noopener noreferrer'
           target='_blank'>

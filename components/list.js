@@ -12,12 +12,15 @@ export default ({ items }) => {
 
   return (
     <>
-      <input
-        className='md:w-64 sm:w-48 w-40 bg-gray-100 rounded sm:mr-4 mr-2 border border-gray-400 focus:outline-none focus:border-green-500 text-base py-2 px-4 my-2'
-        placeholder='Buscar'
-        type='text'
-        onChange={searchHandler}
-      />
+      <label>
+        <span className='hidden'>Buscar</span>
+        <input
+          className='md:w-64 sm:w-48 w-40 bg-gray-100 rounded sm:mr-4 mr-2 border border-gray-400 focus:outline-none focus:border-green-700 text-base py-2 px-4 my-2'
+          placeholder='Buscar'
+          type='text'
+          onChange={searchHandler}
+        />
+      </label>
       <span>
         {results.length === 1 ? `1 resultado` : `${results.length} resultados`}
       </span>

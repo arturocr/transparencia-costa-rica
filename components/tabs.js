@@ -19,7 +19,7 @@ export default ({ children }) => {
           );
         })}
       </ol>
-      <div className='border-t border-green-500'>
+      <div className='border-t border-green-700'>
         {children.map((child) =>
           child.props.label !== activeTab ? undefined : child.props.children
         )}
