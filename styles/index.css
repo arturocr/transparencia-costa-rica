@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+
+#__next {
+  @apply text-gray-700;
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+@tailwind utilities;
