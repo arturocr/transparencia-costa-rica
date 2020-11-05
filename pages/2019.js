@@ -19,6 +19,7 @@ export async function getStaticProps() {
         getes2019,
       },
     },
+    revalidate: 1,
   };
 }
 

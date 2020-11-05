@@ -1,8 +1,8 @@
 import Link from 'next/link';
 
-export default () => (
+const Index = () => (
   <>
-    <h1 className='text-xl font-medium mb-5'>¡Queremos transparencia!</h1>
+    <h1 className='mb-5 text-xl font-medium'>¡Queremos transparencia!</h1>
     <p className='my-4'>
       Tal y como el diputado Jose María Villalta{' '}
       <a
@@ -65,3 +65,5 @@ export default () => (
     </p>
   </>
 );
+
+export default Index;
