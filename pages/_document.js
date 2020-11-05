@@ -77,7 +77,7 @@ class MyDocument extends Document {
           />
           <link rel='manifest' href='/favicons/manifest.json' />
         </Head>
-        <body>
+        <body className='font-sans text-gray-900'>
           <Main />
           <NextScript />
         </body>
