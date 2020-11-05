@@ -22,7 +22,7 @@ export async function getStaticProps() {
   };
 }
 
-export default ({ data }) => (
+const Year2019 = ({ data }) => (
   <>
     <NextSeo
       title={title}
@@ -34,7 +34,7 @@ export default ({ data }) => (
         description,
       }}
     />
-    <h1 className='text-xl font-medium mb-5'>Lista del año 2019</h1>
+    <h1 className='mb-5 text-xl font-medium'>Lista del año 2019</h1>
     <p className='my-4'>
       Acá se presenta la lista de Grandes Contribuyentes Nacionales y Grandes
       Empresas Territoriales que han reportado pérdidas o cero ganancias en el
@@ -50,3 +50,5 @@ export default ({ data }) => (
     </Tabs>
   </>
 );
+
+export default Year2019;

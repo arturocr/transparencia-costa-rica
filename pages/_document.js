@@ -1,17 +1,11 @@
 import React from 'react';
-import Document, { Head, Main, NextScript } from 'next/document';
+import Document, { Head, Html, Main, NextScript } from 'next/document';
 
-export default class MyDocument extends Document {
+class MyDocument extends Document {
   render() {
     return (
-      <html lang='es-CR'>
+      <Html lang='es-CR'>
         <Head>
-          <meta content='IE=edge' httpEquiv='X-UA-Compatible' />
-          <meta content='width=device-width, initial-scale=1' name='viewport' />
-          <meta
-            content='/favicons/browserconfig.xml'
-            name='msapplication-config'
-          />
           <link
             rel='apple-touch-icon'
             sizes='57x57'
@@ -82,18 +76,14 @@ export default class MyDocument extends Document {
             href='/favicons/favicon-16x16.png'
           />
           <link rel='manifest' href='/favicons/manifest.json' />
-          <meta name='msapplication-TileColor' content='#ffffff' />
-          <meta
-            name='msapplication-TileImage'
-            content='/favicons/ms-icon-144x144.png'
-          />
-          <meta name='theme-color' content='#ffffff' />
         </Head>
         <body>
           <Main />
           <NextScript />
         </body>
-      </html>
+      </Html>
     );
   }
 }
+
+export default MyDocument;

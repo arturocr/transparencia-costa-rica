@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default ({ activeTab, label, onClick }) => (
+const Tab = ({ activeTab, label, onClick }) => (
   <li
     className={`uppercase text-sm font-semibold ${
       activeTab === label
@@ -12,3 +12,5 @@ export default ({ activeTab, label, onClick }) => (
     </a>
   </li>
 );
+
+export default Tab;

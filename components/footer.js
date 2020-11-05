@@ -1,4 +1,4 @@
-export default () => (
+const Footer = () => (
   <footer className='border-t'>
     <div className='container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col'>
       <a
@@ -60,3 +60,5 @@ export default () => (
     </div>
   </footer>
 );
+
+export default Footer;

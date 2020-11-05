@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Tab from './tab';
 
-export default ({ children }) => {
+const Tabs = ({ children }) => {
   const [activeTab, setActiveTab] = useState(children[0].props.label);
 
   return (
@@ -27,3 +27,5 @@ export default ({ children }) => {
     </div>
   );
 };
+
+export default Tabs;

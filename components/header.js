@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export default () => (
+const Header = () => (
   <header>
     <div className='container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center'>
       <Link href='/'>
@@ -61,3 +61,5 @@ export default () => (
     </div>
   </header>
 );
+
+export default Header;
